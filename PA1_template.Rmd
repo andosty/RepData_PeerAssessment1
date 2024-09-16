@@ -10,7 +10,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 
 # set working directory
-setwd("D:/Developer Room/CourseraDataScienceUsingR/reproducible research")
+setwd("D:/Developer Room/CourseraDataScienceUsingR/reproducible research/RepData_PeerAssessment1")
 
 # set destination filename for the zip file download
 destinationFileName <- "repdata-data-activity.zip"
